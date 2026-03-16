@@ -44,3 +44,24 @@ header {
 
 </body>
 </html>
+
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>サポ休 ⚡ ジェフ応援ページ</title>
+<style>
+body{font-family:sans-serif;text-align:center;background:#f0f8ff;margin:0;}
+header{background:#0033a0;color:#ffd700;padding:30px;}
+.btn{display:block;margin:20px auto;padding:15px;width:80%;max-width:300px;background:#ffd700;color:#0033a0;font-weight:bold;text-decoration:none;border-radius:10px;}
+</style>
+</head>
+<body>
+<header>
+<h1>サポ休 ⚡ ジェフ応援ページ</h1>
+</header>
+<a class="btn" href="https://www.youtube.com/@sapokyu_jef">YouTube</a>
+<a class="btn" href="https://www.instagram.com/sapokyu_jef">Instagram</a>
+<a class="btn" href="https://www.tiktok.com/@sapokyu_jef">TikTok</a>
+</body>
+</html>
